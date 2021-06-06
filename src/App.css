@@ -1,0 +1,13 @@
+.error{
+  color:red;
+  font-size:.8rem;
+  margin:.3rem 1rem;
+}
+
+.inputfield{
+  display: flex;
+}
+
+.invalid{
+  border-color: red;
+}
